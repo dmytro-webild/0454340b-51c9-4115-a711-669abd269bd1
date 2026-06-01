@@ -79,7 +79,7 @@ export default function LandingPage() {
         },
       ]}
       buttonAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/chef-is-working-nicely-decorated-kitchen-preparing-pastry-pizza_613910-3408.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/chef-is-working-nicely-decorated-kitchen-preparing-pastry-pizza_613910-3408.jpg?_wi=1"
       imageAlt="Luxurious deli interior with gourmet food displays"
       showDimOverlay={true}
     />
@@ -106,7 +106,7 @@ export default function LandingPage() {
           description: "Dedicated staff ready to assist you with recommendations and custom orders.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/man-are-making-tandir-traditional-bread-side-view_141793-4731.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/man-are-making-tandir-traditional-bread-side-view_141793-4731.jpg?_wi=1"
       imageAlt="Chef preparing a gourmet dish in a modern kitchen"
       mediaAnimation="slide-up"
     />
@@ -139,7 +139,7 @@ export default function LandingPage() {
           description: "A curated range of exotic spices, organic produce, and specialty pantry items.",
           bentoComponent: "reveal-icon",
           icon: Tag,
-          imageSrc: "http://img.b2bpic.net/free-photo/chef-is-working-nicely-decorated-kitchen-preparing-pastry-pizza_613910-3408.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/chef-is-working-nicely-decorated-kitchen-preparing-pastry-pizza_613910-3408.jpg?_wi=2",
           imageAlt: "cozy cafe interior coffee",
         },
         {
@@ -147,7 +147,7 @@ export default function LandingPage() {
           description: "Delicious hot and cold meals prepared by our expert chefs for dine-in or takeaway.",
           bentoComponent: "reveal-icon",
           icon: Award,
-          imageSrc: "http://img.b2bpic.net/free-photo/man-are-making-tandir-traditional-bread-side-view_141793-4731.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-are-making-tandir-traditional-bread-side-view_141793-4731.jpg?_wi=2",
           imageAlt: "cozy cafe interior coffee",
         },
       ]}
